@@ -63,7 +63,7 @@ ul { padding: 0; margin: 0; list-style: none; }
 header { padding: 30px 0; }
 header .container { display: flex; justify-content: space-between; align-items: center; }
 .ev-logo a { display: inline-block; width: 100px; height: 100px; border-radius: 50%; padding: 15px; background-image: linear-gradient(180deg, #E6ECF1 0%, #E6ECF1 100%); filter: drop-shadow(5px 5px 10px #B1B7BD) drop-shadow(-5px -5px 10px #FFF); }
-.ev-logo a span { display: flex; width: 60px; height: 60px; border-radius: 50%; padding: 5px; background-image: linear-gradient(180deg, #E6ECF1 0%, #E6ECF1 100%); filter: drop-shadow(5px 5px 10px #B1B7BD) drop-shadow(-5px -5px 20px #FFF); }
+.ev-logo a span { display: flex; width: 70px; height: 70px; border-radius: 50%; padding: 5px; background-image: linear-gradient(180deg, #E6ECF1 0%, #E6ECF1 100%); filter: drop-shadow(5px 5px 10px #B1B7BD) drop-shadow(-5px -5px 20px #FFF); }
 .ev-logo a span img { width: 60px; height: 60px; }
 .social-icons a { display: inline-block; width: 40px; height: 40px; border-radius: 50%; padding: 4px; margin: 0 5px; background-image: linear-gradient(180deg, #E6ECF1 0%, #E6ECF1 100%); filter: drop-shadow(5px 5px 10px #B1B7BD) drop-shadow(-5px -5px 10px #FFF); }
 .social-icons a span { display: flex; width: 32px; height: 32px; border-radius: 50%; padding: 8px; background-image: linear-gradient(180deg, #E6ECF1 0%, #E6ECF1 100%); filter: drop-shadow(5px 5px 10px #B1B7BD) drop-shadow(-5px -5px 20px #FFF); }
