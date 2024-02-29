@@ -45,6 +45,12 @@
 	.social-icons a { background-image: linear-gradient(180deg, #E6ECF1 0%, #E6ECF1 100%); filter: drop-shadow(1px 1px 2px #B1B7BD) drop-shadow(-1px -1px 2px #FFF); }
 	.social-icons a span { background-image: linear-gradient(180deg, #E6ECF1 0%, #E6ECF1 100%); filter: drop-shadow(1px 1px 2px #B1B7BD) drop-shadow(-1px -1px 2px #FFF); }
 
+	.eatverse-shark-tank.mobile { display: block; }
+	.eatverse-shark-tank.desktop { display: none; }
+	.eatverse-shark-tank span { display: inline-block; margin-right: 0; margin-bottom: 10px; font-size: 15px; letter-spacing: -0.3px; }
+	.shark-tank-imgBg { width: 320px; }
+	.shark-tank-imgBg img { width: 314px; }
+
 	.banner .col-sm-5 { order: 2; }
 	.banner .col-sm-7 { order: 1; }
 	.banner .col-sm-7.justify-content-end { justify-content: center !important; }
